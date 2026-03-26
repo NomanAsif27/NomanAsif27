@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I’m a multidisciplinary professional with **10+ years of experience** across:
 
@@ -31,7 +31,7 @@ I focus on solutions that improve:
 
 ---
 
-## 💼 What I’m Working On
+##  What I’m Working On
 
 - Building scalable **B2B SaaS platforms**
 - Developing **ERP and workflow automation systems**
@@ -41,7 +41,7 @@ I focus on solutions that improve:
 
 ---
 
-## 🧠 Core Expertise
+##  Core Expertise
 
 ### Frontend Development
 - React.js
@@ -49,6 +49,7 @@ I focus on solutions that improve:
 - Tailwind CSS
 - Responsive UI / UX
 - SSR / CSR
+- N8N / Automation
 - Component-based architecture
 
 ### Backend & API Architecture
@@ -85,7 +86,7 @@ I focus on solutions that improve:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,nodejs,express,php,laravel,mysql,mongodb,firebase,git,github,postman,vscode" />
@@ -93,7 +94,7 @@ I focus on solutions that improve:
 
 ---
 
-## 📈 Professional Strengths
+##  Professional Strengths
 
 - ✔️ Problem-solving under pressure  
 - ✔️ System architecture & scalability  
@@ -103,7 +104,7 @@ I focus on solutions that improve:
 
 ---
 
-## 🧩 Featured Projects
+##  Featured Projects
 
 ### 🏢 Tarh Platform
 **B2B Tender Management Ecosystem**
@@ -114,44 +115,39 @@ I focus on solutions that improve:
 
 🔗 [Visit Project](https://tarhplatform.com/)
 
-### 🌐 Outclass Formez
+###  Outclass Formez
 **Multi-tenant SaaS enterprise portal**
 - Dynamic workflow engine
 - Role-based access system
 - Multi-language support
 - Organization-level dashboards
 
-🎥 [Watch Demo](https://youtu.be/a8EG3IqeIbw)
+ 🔗 [Watch Demo](https://youtu.be/a8EG3IqeIbw)
 
-### 📍 WITO App
+###  WITO App
 **Field operations and tracking solution**
 - Real-time tracking
 - Task automation
 - Analytics dashboard
 - MERN-based architecture
 
-🎥 [Watch Demo](https://youtu.be/xZc7-Yw3nfg)
+ 🔗 [Watch Demo](https://youtu.be/xZc7-Yw3nfg)
 
-### 🛍️ Vestidos By HH
+###  Vestidos By HH
 **Custom full-stack eCommerce ecosystem**
 - Admin ERP
 - Inventory and order management
 - Logistics and payment integration
 - Financial analytics
 
-🎥 [Watch Demo](https://youtu.be/TibVLEfwdg4)
+🔗 [Watch Demo](https://youtu.be/TibVLEfwdg4)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NomanAsif27&show_icons=true&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NomanAsif27&layout=compact" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NomanAsif27" />
 </p>
 
 ---
@@ -169,6 +165,6 @@ I'm open to:
 
 ---
 
-## ⚡ Fun Fact
+##  Fun Fact
 
 I don’t just build software — I design how businesses run digitally.
