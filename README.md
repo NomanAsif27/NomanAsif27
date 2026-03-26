@@ -152,7 +152,7 @@ I focus on solutions that improve:
 
 ---
 
-## 🤝 Let’s Connect
+##  Let’s Connect
 
 I'm open to:
 
@@ -161,7 +161,7 @@ I'm open to:
 - Automation and business optimization
 - Long-term collaborations
 
-💬 Message me on [WhatsApp](https://wa.me/966570107172) or connect on [LinkedIn](https://www.linkedin.com/in/noman-asif/)
+ Message me on [WhatsApp](https://wa.me/966570107172) or connect on [LinkedIn](https://www.linkedin.com/in/noman-asif/)
 
 ---
 
