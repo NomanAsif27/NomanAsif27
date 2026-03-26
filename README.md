@@ -1,134 +1,174 @@
 # 👋 Hi, I'm Noman Asif
 
-### Senior Full-Stack Developer | SaaS Architect | IT Operations Leader
+<h3 align="left">Senior Full-Stack Developer | SaaS Architect | IT Operations Leader</h3>
 
-📍 Riyadh, Saudi Arabia  
-📞 +966 570107172  
-📧 izaid57@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/noman-asif/)  
-💬 [WhatsApp](https://wa.me/966570107172)
+<p align="left">
+  <a href="https://www.linkedin.com/in/noman-asif/"><img src="https://img.shields.io/badge/LinkedIn-Noman%20Asif-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:izaid57@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://wa.me/966570107172"><img src="https://img.shields.io/badge/WhatsApp-Chat-success?style=for-the-badge&logo=whatsapp" /></a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a multidisciplinary professional with **10+ years of experience** combining:
+I’m a multidisciplinary professional with **10+ years of experience** across:
 
 - Full-stack software engineering  
-- SaaS architecture & automation  
-- Enterprise IT operations & financial systems  
+- SaaS architecture & workflow automation  
+- ERP and enterprise systems  
+- IT operations, procurement, and finance process optimization  
 
-I specialize in building **scalable B2B platforms, ERP systems, and automation-driven solutions** that solve real-world business problems.
+Currently based in **Riyadh, Saudi Arabia**, I build scalable, secure, and business-focused digital products using **React, Next.js, Laravel, Node.js, Zoho Creator, and modern API-driven architectures**.
 
-Currently working as a **Senior Full-Stack Developer & SaaS Architect in Riyadh**, delivering high-performance systems with strong focus on:
+I focus on solutions that improve:
 
-- Performance ⚡  
-- Security 🔐  
-- Scalability 📈  
-- Maintainable architecture 🧩  
+- Performance  
+- Security  
+- Scalability  
+- Maintainability  
+- Real business efficiency  
+
+---
+
+## 💼 What I’m Working On
+
+- Building scalable **B2B SaaS platforms**
+- Developing **ERP and workflow automation systems**
+- Integrating **payment gateways and subscription systems**
+- Creating **secure enterprise dashboards and admin portals**
+- Delivering **Arabic-first and multilingual business platforms**
 
 ---
 
 ## 🧠 Core Expertise
 
-### 💻 Frontend
-- React.js, Next.js
+### Frontend Development
+- React.js
+- Next.js
 - Tailwind CSS
 - Responsive UI / UX
 - SSR / CSR
 - Component-based architecture
 
-### ⚙️ Backend & APIs
-- Node.js (MERN Stack)
+### Backend & API Architecture
+- Node.js
+- Express.js
 - PHP / Laravel
-- RESTful APIs & Microservices
-- JWT / OAuth Authentication
+- RESTful APIs
+- Microservices
+- JWT / OAuth
 - Role-Based Access Control (RBAC)
 
-### 🔄 SaaS & Automation
-- Zoho Creator (Deluge scripting)
-- Workflow automation systems
+### SaaS & Automation
+- Zoho Creator
+- Deluge scripting
+- Workflow automation
 - Multi-tenant SaaS platforms
-- Subscription & billing systems
+- Subscription and billing systems
 
-### 💳 FinTech Integration
-- Mada, Visa, Mastercard, SADAD
-- Payment gateway integration
-- Digital invoicing (ZATCA-ready)
+### FinTech & Integrations
+- Mada
+- Visa / Mastercard
+- SADAD
+- Payment gateway integrations
+- Digital invoicing
 - Subscription lifecycle management
+- Third-party APIs and webhooks
 
-### 🗄️ Database Systems
-- MySQL, SQL Server
-- MongoDB, Firebase
-- Database design & optimization
+### Databases
+- MySQL
+- SQL Server
+- MongoDB
+- Firebase
+- Database design and optimization
 
 ---
 
-## 🏗️ What I Do Beyond Code
+## 🛠️ Tech Stack
 
-- 🧩 Design complete enterprise systems (ERP, SaaS)
-- 📊 Optimize workflows & business processes
-- 🔐 Manage IT infrastructure & system security
-- 👥 Lead cross-functional teams (SDLC)
-- 💰 Handle financial systems & automation
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,nodejs,express,php,laravel,mysql,mongodb,firebase,git,github,postman,vscode" />
+</p>
+
+---
+
+## 📈 Professional Strengths
+
+- ✔️ Problem-solving under pressure  
+- ✔️ System architecture & scalability  
+- ✔️ Business + technical thinking  
+- ✔️ Strong communication & leadership  
+- ✔️ Fast adaptation to new technologies  
 
 ---
 
 ## 🧩 Featured Projects
 
 ### 🏢 Tarh Platform
-> B2B Tender Management Ecosystem (Saudi Arabia)
+**B2B Tender Management Ecosystem**
+- Full procurement lifecycle system
+- Secure bidding and vendor management
+- Subscription and payment integration
+- Arabic-first enterprise UX
 
-- Full procurement lifecycle system  
-- Secure bidding & vendor management  
-- Subscription + payment integration  
-- Arabic-first enterprise UX  
+🔗 [Visit Project](https://tarhplatform.com/)
 
-🔗 https://tarhplatform.com/
+### 🌐 Outclass Formez
+**Multi-tenant SaaS enterprise portal**
+- Dynamic workflow engine
+- Role-based access system
+- Multi-language support
+- Organization-level dashboards
 
----
-
-### 🌐 Outclass Formez (SaaS)
-> Multi-tenant enterprise portal
-
-- Dynamic workflow engine  
-- Role-based access system  
-- Multi-language support  
-- Organization-level dashboards  
-
-🎥 https://youtu.be/a8EG3IqeIbw
-
----
+🎥 [Watch Demo](https://youtu.be/a8EG3IqeIbw)
 
 ### 📍 WITO App
-> Field operations & tracking system
+**Field operations and tracking solution**
+- Real-time tracking
+- Task automation
+- Analytics dashboard
+- MERN-based architecture
 
-- Real-time tracking  
-- Task automation  
-- Analytics dashboard  
-- MERN-based architecture  
-
-🎥 https://youtu.be/xZc7-Yw3nfg
-
----
+🎥 [Watch Demo](https://youtu.be/xZc7-Yw3nfg)
 
 ### 🛍️ Vestidos By HH
-> Full-stack eCommerce ecosystem
+**Custom full-stack eCommerce ecosystem**
+- Admin ERP
+- Inventory and order management
+- Logistics and payment integration
+- Financial analytics
 
-- Custom admin ERP  
-- Inventory + order management  
-- Payment & logistics integration  
-- Financial analytics  
-
-🎥 https://youtu.be/TibVLEfwdg4
+🎥 [Watch Demo](https://youtu.be/TibVLEfwdg4)
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 GitHub Stats
 
-```bash
-Frontend:   React, Next.js, Tailwind, Bootstrap
-Backend:    Node.js, Laravel, Express
-Database:   MySQL, MongoDB, Firebase, SQL Server
-Tools:      Git, Postman, Zoho Creator, Docker (basic)
-FinTech:    Mada, Visa, SADAD, Payment APIs
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NomanAsif27&show_icons=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NomanAsif27&layout=compact" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NomanAsif27" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+I'm open to:
+
+- SaaS development projects
+- System architecture consulting
+- Automation and business optimization
+- Long-term collaborations
+
+💬 Message me on [WhatsApp](https://wa.me/966570107172) or connect on [LinkedIn](https://www.linkedin.com/in/noman-asif/)
+
+---
+
+## ⚡ Fun Fact
+
+I don’t just build software — I design how businesses run digitally.
