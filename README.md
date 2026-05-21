@@ -7,7 +7,8 @@
   <a href="mailto:izaid57@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
 
 
-  <a href="https://wa.me/966570107172"><img src="https://img.shields.io/badge/WhatsApp-Chat-success?style=for-the-badge&logo=whatsapp" /></a
+  <a href="https://wa.me/966570107172"><img src="https://img.shields.io/badge/WhatsApp-Chat-success?style=for-the-badge&logo=whatsapp" /></a>
+
   <a href="https://pronauman.com" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-pronauman.com-blue?style=for-the-badge&logo=google-chrome" />
 </a>
