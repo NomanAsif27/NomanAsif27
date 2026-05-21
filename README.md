@@ -5,10 +5,13 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/noman-asif/"><img src="https://img.shields.io/badge/LinkedIn-Noman%20Asif-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:izaid57@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://pronauman.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-pronauman.com-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+
+
   <a href="https://wa.me/966570107172"><img src="https://img.shields.io/badge/WhatsApp-Chat-success?style=for-the-badge&logo=whatsapp" /></a
+  <a href="https://pronauman.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-pronauman.com-blue?style=for-the-badge&logo=google-chrome" />
+</a>
+
 </p>
 
 ---
